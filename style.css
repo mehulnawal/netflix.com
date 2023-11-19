@@ -1,0 +1,171 @@
+body
+{
+    text-align: center;
+    font-family: 'Merienda', serif;
+    color:#40514E;
+}
+h2
+{
+    padding-bottom: 12px;
+}
+.top_container
+{
+    background-color: #E4F9F5;
+     /* padding:10px; 
+     */
+}
+.middle-contanier
+{
+    padding: 100px  0 100px 0 ;
+}   
+.main-heading
+{
+    color:#66BFBF;
+    margin: 50px auto 0 auto;
+    font-size: 500%;
+}
+.c2
+{
+    color:#66BFBF;
+    position: absolute;
+    left:25%
+}
+.c1
+{
+    position: absolute;
+    right: 30%;
+    top: 7%;
+    
+}
+.p-tag,h2
+{
+    color:#66BFBF;
+    font-size: 2.5rem;
+}
+h3
+{
+    color:#11999E;
+}
+.skill-row
+{
+    width: 50%;
+    margin: 100px auto 100px auto;   
+    text-align: left;
+    line-height: 2;
+    /* margin-top: 50px; */
+}
+.skill-row1
+{
+    margin-top: 250px;  
+    width: 50%;
+    margin: 100px auto 100px auto;   
+    text-align: left;
+    line-height: 2;
+    margin-top: 250px;
+    
+}
+.tally
+{
+    height: 17rem;
+    width:30%;
+    float:left;
+    margin-right:30px;
+    clear: left;
+}
+.adobe
+{
+    height: 12rem;
+    width: 15rem;
+    float:right;
+    margin-right:25px ;
+    clear: right;
+}
+.intro
+{
+    width:30%;
+    margin: 0 auto 0 auto;
+    font-size:larger;
+}
+p
+{
+    line-height: 2;
+}
+hr
+{
+    width: 4%;
+    border: dotted 6px;
+    color: #EAF6F6 ;
+    border-bottom: none ;
+    margin: 100px auto 100px auto
+}
+.contact-me
+{
+    /*   */
+}
+
+    .btn {
+        background: #11ccd4;
+        background-image: -webkit-linear-gradient(top, #11ccd4, #11999e);
+        background-image: -moz-linear-gradient(top, #11ccd4, #11999e);
+        background-image: -ms-linear-gradient(top, #11ccd4, #11999e);
+        background-image: -o-linear-gradient(top, #11ccd4, #11999e);
+        background-image: linear-gradient(to bottom, #11ccd4, #11999e);
+        -webkit-border-radius: 10;
+        -moz-border-radius: 10;
+        border-radius: 10px;
+        font-family: 'Merienda', serif;
+        color: #ffffff;
+        font-size: 20px;
+        padding: 10px 20px 10px 20px;
+        text-decoration: none;
+      }
+      
+      .btn:hover {
+        background: #30e3cd;
+        background-image: -webkit-linear-gradient(top, #30e3cd, #2bc4ad);
+        background-image: -moz-linear-gradient(top, #30e3cd, #2bc4ad);
+        background-image: -ms-linear-gradient(top, #30e3cd, #2bc4ad);
+        background-image: -o-linear-gradient(top, #30e3cd, #2bc4ad);
+        background-image: linear-gradient(to bottom, #30e3cd, #2bc4ad);
+        text-decoration: none;
+      }
+      .btn
+      {
+          position: relative;
+          bottom:30px;
+        }
+.text 
+{
+    position: relative;
+    bottom:50px;
+    
+}
+.bottom-container
+{
+    background-color: #66BFBF;
+    padding:60px 0 30px;
+    margin:40px 0 0 0;
+}
+a
+{
+    color:#11999e;
+    font-family: 'Merienda', serif;
+    margin: 10px 20px 10px 20px ;
+    text-decoration: none;
+}
+a:hover
+{
+    background-color:#EAF6F6;
+    text-decoration: underline;
+    cursor: pointer;
+}
+.copywrite
+{
+    color: #EAF6F6;
+    font-size: 0.9rem;
+    padding: 20px 0 20px 0 ;
+}
+.my_photo
+{
+    margin-top: 30px;
+}
